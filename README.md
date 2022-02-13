@@ -3,6 +3,6 @@
 - Prinz (Discord bot)
 - That's all.
 
-![My stats for literally no reason](https://github-readme-stats.vercel.app/api?username=Deltara3&theme=vue-dark&show_icons=true&count_private=true)
+![My stats for literally no reason](https://github-readme-stats.vercel.app/api?username=rvnpower&theme=vue-dark&show_icons=true&count_private=true)
 
-![My most used languages for literally no reason](https://github-readme-stats.vercel.app/api/top-langs/?username=Deltara3&theme=vue-dark&layout=compact)
+![My most used languages for literally no reason](https://github-readme-stats.vercel.app/api/top-langs/?username=rvnpower&theme=vue-dark&layout=compact)
