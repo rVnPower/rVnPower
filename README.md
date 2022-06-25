@@ -1,8 +1,10 @@
 # About me
-- [Vietnamese Featured Demons](https://github.com/rVnPower/RedesignedDemonListVN-v2)
-- Prinz (Discord bot)
-- That's all.
+A 15 years old Vietnamese student.
 
-![My stats for literally no reason](https://github-readme-stats.vercel.app/api?username=rvnpower&theme=vue-dark&show_icons=true&count_private=true)
+- I use Linux.
+- I code in Python and Rust.
+- I use Svelte as my primary JavaScript framework.
+- I like static websites.
+- I love open source and I would like to contribute.
 
-![My most used languages for literally no reason](https://github-readme-stats.vercel.app/api/top-langs/?username=rvnpower&theme=vue-dark&layout=compact)
+...
