@@ -1,4 +1,4 @@
-All of my remarkable repositories has been migrated to [my Codeberg account](https://codeberg.org/VnPower)
+All of my remarkable repositories have been migrated to [my Codeberg account](https://codeberg.org/VnPower)
 
 == We're Using GitHub Under Protest ==
 
